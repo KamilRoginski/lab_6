@@ -10,7 +10,6 @@ Lab 6: Simple Flask application displaying:
 - Passing current date and time to templates
 """
 
-
 from datetime import datetime as dt
 from flask import Flask, render_template
 
