@@ -13,6 +13,7 @@ Lab 6: Simple Flask application displaying:
 from datetime import datetime as dt
 from flask import Flask, render_template
 
+
 app = Flask(__name__)
 
 @app.route('/')
