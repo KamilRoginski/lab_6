@@ -1,0 +1,26 @@
+/* Shared stylesheet for all pages */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: #d3ac1e;
+}
+
+h3 {
+    color: #8f1b25;
+}
+
+p {
+    line-height: 1.5;
+}
