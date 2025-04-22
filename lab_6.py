@@ -3,6 +3,7 @@
 #Professor: Mark Babcock
 #Course: CYOP 300
 
+
 """
 Lab 6: Simple Flask application displaying:
 - Three routes: home, about, contact
