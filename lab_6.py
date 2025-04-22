@@ -3,14 +3,12 @@
 #Professor: Mark Babcock
 #Course: CYOP 300
 
-
 """
 Lab 6: Simple Flask application displaying:
 - Three routes: home, about, contact
 - Rendering templates with render_template
 - Passing current date and time to templates
 """
-
 
 from datetime import datetime as dt
 from flask import Flask, render_template
